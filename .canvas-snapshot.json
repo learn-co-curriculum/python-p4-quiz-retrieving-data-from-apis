@@ -13,7 +13,7 @@
     "scoring_policy": "keep_highest",
     "allowed_attempts": 3,
     "one_question_at_a_time": true,
-    "question_count": 0,
+    "question_count": 7,
     "points_possible": 1.0,
     "cant_go_back": false,
     "access_code": null,
