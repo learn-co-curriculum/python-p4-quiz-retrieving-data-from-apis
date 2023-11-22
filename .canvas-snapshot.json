@@ -85,36 +85,42 @@
       "id": 366134,
       "quiz_id": 53514,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 1,
+      "assessment_question_id": 635920,
+      "position": null,
       "question_name": "Sending GET Requests",
       "question_type": "multiple_choice_question",
-      "question_text": "<span>What is the standard way store and transfer nested data over the internet?&nbsp;</span>",
+      "question_text": "<p>What is the standard way store and transfer nested data over the internet?</p>",
       "points_possible": 1.0,
       "correct_comments": "JSON stands for JavaScript Object Notation and is a standard way store and transfer nested data over the internet.",
       "incorrect_comments": "",
-      "neutral_comments": null,
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": null,
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_4994",
-          "id": 4994,
-          "text": "JSON"
+          "id": 3159,
+          "text": "",
+          "html": "<p>JSON</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 100.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_2512",
-          "id": 2512,
-          "text": "XML"
+          "id": 9417,
+          "text": "",
+          "html": "<p>XML</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         },
         {
-          "weight": 0,
-          "migration_id": "RESPONSE_3429",
-          "id": 3429,
-          "text": "YAML"
+          "id": 5584,
+          "text": "",
+          "html": "<p>YAML</p>",
+          "comments": "",
+          "comments_html": "",
+          "weight": 0.0
         }
       ],
       "variables": null,
@@ -185,31 +191,32 @@
       "id": 366136,
       "quiz_id": 53514,
       "quiz_group_id": null,
-      "assessment_question_id": null,
-      "position": 3,
+      "assessment_question_id": 635921,
+      "position": null,
       "question_name": "Question 2",
       "question_type": "true_false_question",
-      "question_text": "We use the requests library to work with API<span> endpoints.</span>",
+      "question_text": "<p>We use the requests library to work with API endpoints.</p>",
       "points_possible": 1.0,
       "correct_comments": "",
       "incorrect_comments": "",
-      "neutral_comments": null,
-      "correct_comments_html": null,
-      "incorrect_comments_html": null,
-      "neutral_comments_html": null,
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "",
       "answers": [
         {
-          "weight": 100,
-          "migration_id": "RESPONSE_5074",
-          "id": 5074,
+          "comments": "",
+          "comments_html": "<p>Correct!</p>",
           "text": "True",
-          "comments": "Correct!"
+          "weight": 100,
+          "id": 5074
         },
         {
+          "comments": "",
+          "comments_html": "",
+          "text": "False",
           "weight": 0,
-          "migration_id": "RESPONSE_5412",
-          "id": 5412,
-          "text": "False"
+          "id": 5412
         }
       ],
       "variables": null,
